@@ -1,0 +1,9 @@
+/* Employee.css */
+.hover_effect:hover {
+    cursor: pointer;
+    transform: scale(1.1); 
+    margin-bottom: 15px;
+    /* Adjust the scale factor as needed */
+
+  }
+  
